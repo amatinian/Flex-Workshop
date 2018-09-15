@@ -1,0 +1,6 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial><Conference statusCallback='https://{replace with your Runtime Domain}/flex_task_update?TaskSid={{TaskSid}}&amp;WorkerSid={{WorkerSid}}&amp;destinationNumber={{destinationNumber}}&amp;callerId={{callerId}}' statusCallbackEvent='join' endConferenceOnExit='true'>{{TaskSid}}</Conference></Dial>
+</Response>  
+
